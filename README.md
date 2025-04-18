@@ -2,9 +2,9 @@
 <!-- <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/>
 </p> -->
-<!-- <p align="center">
-  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
-</p> -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="300" height="auto" alt="Coding"/>
+</p>
 <!-- <h2 align="center">👨🏻‍💻 About me:</h2>
 <p align="justify">I am an enthusiastic programmer with a strong passion for technology and innovation. My journey is guided by an endless curiosity and a desire to explore new frontiers in programming. I thrive on solving intricate problems and constantly seek opportunities to challenge myself and elevate my skills to new heights. My interests includes:</p>
 <p align="center">
