@@ -32,5 +32,6 @@
 <h2 align="center">📊 My Github Activity:</h2>
 <div align="center" height="auto">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sasindu-De-Silva&show_icons=true&locale=en&layout=compact" alt="Sasindu-De-Silva" />
+  <br/>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasindu-De-Silva&theme=gruvbox" alt='Sasindu De Silva Activity Graph'/>
 </div>
