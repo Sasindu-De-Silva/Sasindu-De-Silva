@@ -2,16 +2,19 @@
 <!-- <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Website+Developer;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/>
 </p> -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="300" height="auto" alt="Coding"/>
-</p>
-<!-- <h2 align="center">👨🏻‍💻 About me:</h2>
-<p align="justify">I am an enthusiastic programmer with a strong passion for technology and innovation. My journey is guided by an endless curiosity and a desire to explore new frontiers in programming. I thrive on solving intricate problems and constantly seek opportunities to challenge myself and elevate my skills to new heights. My interests includes:</p>
-<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="300" height="auto" alt="Coding" align="left"/>
+  
+   <p align="justify">As a passionate Full-Stack Developer, I am driven by a deep curiosity and an unwavering love for technology. I find joy in pushing the boundaries of what’s possible through code and innovation. Problem-solving fuels my growth, and I constantly pursue new challenges that sharpen my abilities and expand my knowledge across the development stack.</p>
+
+   ### Connect with Me 📫
+
+| [<img src="img/github-mark.png" alt="github logo" width="34">](www.github.com/Sasindu-De-Silva) | [<img src="img/linkedin.png" alt="linkedin logo" width="24">](www.linkedin.com/in/sasindusilva) | [<img src="img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/TharinduWijaya4) | [<img src="img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/17042914/tharindu-wijayarathna) |
+
+<!-- <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
-</p>
-<p align="center">Currently learning -> Machine Learning</p>
-<p align="center">Currently working on -> Private Projects</p> -->
+</p> -->
+<!-- <p align="center">Currently learning -> Machine Learning</p> -->
+<!-- <p align="center">Currently working on -> Private Projects</p> -->
 <br>
 <!-- <h2 align="center">💻 My tech stack:</h2> -->
 <!-- <table align="center">
