@@ -8,8 +8,6 @@
 
    ### Connect with Me 📫
 
-| [<img src="img/github-mark.png" alt="github logo" width="34">](www.github.com/Sasindu-De-Silva) | [<img src="img/linkedin.png" alt="linkedin logo" width="24">](www.linkedin.com/in/sasindusilva) | [<img src="img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/TharinduWijaya4) | [<img src="img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/17042914/tharindu-wijayarathna) |
-
 <!-- <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
 </p> -->
