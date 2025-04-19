@@ -6,7 +6,21 @@
   
    <p align="justify">As a passionate Full-Stack Developer, I am driven by a deep curiosity and an unwavering love for technology. I find joy in pushing the boundaries of what’s possible through code and innovation. Problem-solving fuels my growth, and I constantly pursue new challenges that sharpen my abilities and expand my knowledge across the development stack.</p>
 
-   ### Connect with Me 📫
+### Connect with Me 📫
+<p>
+<a href="https://github.com/Sasindu-De-Silva" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+</a>
+<a href="https://www.linkedin.com/in/sasindusilva/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/s.d.u.de.silva?mibextid=ZbWKwL" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+<!--   <a href="https://www.instagram.com/nimeshdilshan.kumarawnsha/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a> -->
+</p>
 
 <!-- <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
