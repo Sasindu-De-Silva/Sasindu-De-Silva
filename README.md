@@ -36,3 +36,7 @@
   <br/>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasindu-De-Silva&theme=gruvbox" alt='Sasindu De Silva Activity Graph'/>
 </div>
+
+<br/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sasindu-De-Silva&label=Profile%20views&color=0e75b6&style=flat" alt="dilshankumarawansha" /> </p>
